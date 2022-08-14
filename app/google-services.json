@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165846814745",
+    "project_id": "izanamios",
+    "storage_bucket": "izanamios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165846814745:android:bc808bd7b940a48a1dda88",
+        "android_client_info": {
+          "package_name": "com.silva.odevgabriel.izanamios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165846814745-ncrbuunssaa9feg060gsa5s75pkhe5jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFWMv-x3mJ0ubrAO0877_JL7hKJh30IEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165846814745-ncrbuunssaa9feg060gsa5s75pkhe5jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
